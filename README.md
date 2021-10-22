@@ -1,2 +1,1 @@
-# aicts-extended-index-consumption
-Files corresponding to publication "Data analysis approach for characterizing residential energy consumption based on statistics of household appliances ownership"
+Análisis de datos de consumo eléctrico
